@@ -1,0 +1,15 @@
+extends ../shared/template
+
+block content
+  h1 Who let the DAWGS out?
+  a(href='/dogs?gender=female') Female
+  a(href='/dogs?gender=male') Male
+  a(href='/dogs?breed=lab') Lab
+  ul#dogs
+    each dog in records
+      li.dog= dog.name
+        ul
+          li= dog.age
+          li= dog.gender
+          li= dog.breed
+          li= dog.color

@@ -1,0 +1,9 @@
+extends ../shared/template
+
+block content
+  h1 PHOTO gallery
+
+  ul
+    each pic in pics
+      li
+        img(src='/img/'+pic)

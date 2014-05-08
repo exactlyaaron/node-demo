@@ -1,0 +1,10 @@
+{"name": "bilbo", "age": 4, "gender": "male", "breed": "lab", "color": "golden"}
+{"name": "pippin", "age": 3, "gender": "female", "breed": "corgy", "color": "blue"}
+{"name": "sam", "age": 5, "gender": "male", "breed": "mutt", "color": "red"}
+{"name": "frodo", "age": 3, "gender": "female", "breed": "corgy", "color": "black"}
+{"name": "gandalf", "age": 10, "gender": "male", "breed": "shepherd", "color": "blue"}
+{"name": "sauron", "age": 12, "gender": "female", "breed": "shepherd", "color": "red"}
+{"name": "saruman", "age": 13, "gender": "male", "breed": "greyhound", "color": "green"}
+{"name": "legolas", "age": 4, "gender": "female", "breed": "lab", "color": "green"}
+{"name": "gimli", "age": 5, "gender": "male", "breed": "greyhound", "color": "green"}
+{"name": "merry", "age": 7, "gender": "female", "breed": "lab", "color": "yellow"}
